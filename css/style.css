@@ -140,3 +140,69 @@
     font-size: 1.1rem;
     font-weight: 500;
 }
+
+/* secon-feature star */
+.second-feature{
+    max-width: 1440px;
+    height: 1059px;
+    margin: 0 auto;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 130px;
+    gap: 146px;
+}
+
+#second-feature-bar{
+    border-left: 5px solid #FF900E;
+}
+
+.second-feature .second-feature-info h4{
+    font-size: 2.8rem;
+    font-weight: 600;
+    color: #131313;
+    margin-bottom: 24px;
+    padding-left: 21px;
+}
+
+.second-feature .second-feature-info p{
+    font-size: 1rem;
+    line-height: 26px;
+    color: #727272;
+    margin-bottom: 30px;
+}
+
+
+.second-feature-info .second-feature-card{
+    padding: 30px;
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 30px 0 rgba(0, 0, 0, 0.06);
+}
+
+.second-feature-info .second-feature-card h5{
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: #131313;
+    margin-bottom: 10px;
+}
+
+.second-feature-info .second-feature-card p{
+    font-size: 1rem;
+    line-height: 26px;
+    color: #727272;
+}
+
+.second-feature .experience-btn{
+    padding: 46px 42px;
+    border: none;
+    border-radius: 8px;
+    background-color: #FF900E;
+    color: white;
+    font-size: 4rem;
+    font-weight: 600;
+    margin-top: -130px;
+    margin-left: -130px;
+}
+
+/* second feature section end */
+

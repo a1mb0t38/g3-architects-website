@@ -88,4 +88,55 @@
     margin-bottom: 45px;
     border-radius: 8px;
 }
+/* banner end */
 
+/* feature section start */
+.features{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1140px;
+    margin: 0 auto;
+    gap: 73px;
+    margin-top: 85px;
+}
+
+.features .image-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+}
+
+.features .features-info h3{
+    font-size: 2.8rem;
+    font-weight: 500;
+    color: #727272;
+    margin-bottom: 24px;
+}
+
+.features .features-info .of-our{
+    font-size: 2.8rem;
+    font-weight: 600;
+    color: #131313;
+}
+.features .features-info .features1{
+    font-weight: 600;
+    color: #FF900E;
+}
+
+.features .features-info p{
+    font-size: 1rem;
+    line-height: 26px;
+    color: #727272;
+    margin-bottom: 32px;
+}
+
+.features .features-info button{
+    padding: 20px 25px;
+    background-color: #FF900E;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: 500;
+}

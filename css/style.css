@@ -294,4 +294,16 @@
 }
 /* end sponcers section */
 
+footer{
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: 130px;
+    text-align: center;
+    padding: 38px 410px;
+    background-color: #FFF4E7;
+}
 
+footer p{
+    font-size: 1.1rem;
+    color: #424242;
+}
